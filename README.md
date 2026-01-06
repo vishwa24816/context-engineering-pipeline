@@ -34,9 +34,9 @@ uv sync
 Please refer to the `context_engineering_notebook.ipynb` notebook for detailed instructions and the complete code to build the Context Engineering Pipeline using [Pixeltable ecosystem](https://pixeltable.com/).
 
 
-[![Daily Dose of Data Science Newsletter](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)](https://join.dailydoseofds.com)
 
 ## Contribution
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests with your improvements.
+
 
